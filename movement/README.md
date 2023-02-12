@@ -1,7 +1,7 @@
 <h1 align = "center">Canvas - Movement</h1>
 
 <p align = "center">
-    <img src="./_img/movement.gif" width="550px" height="350px" />
+    <img src="./img/movement.gif" width="550px" height="350px" />
 </p>
 <p align = "Right">
 Link:
