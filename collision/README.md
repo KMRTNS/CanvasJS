@@ -1,7 +1,7 @@
 <h1 align = "center">Canvas - Collision</h1>
 
 <p align = "center">
-    <img src="./_img/collision.gif" width="550px" height="350px" />
+    <img src="./img/collision.gif" width="550px" height="350px" />
 </p>
 <p align = "Right">
     Link:
